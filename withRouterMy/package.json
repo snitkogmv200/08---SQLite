@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sqlite3",
+  "version": "1.0.0",
+  "main": "data.js",
+  "devDependencies": {},
+  "author": "Grisha",
+  "license": "ISC",
+  "description": ""
+}
